@@ -14,6 +14,6 @@ I am passionate about cybersecurity and am brand new to github!
 - CompTIA A+
 - CompTia Securtiy+
 - CompTia Network+
-- 
+  
 ## Contact Me
 - Email: syb8rtron@gmail.com
