@@ -12,8 +12,8 @@ I am passionate about cybersecurity and am brand new to github!
 ## Certifications
 - Certified Ethical Hacker (CEH)
 - CompTIA A+
-- CompTia Securtiy+
-- CompTia Network+
+- CompTIA Securtiy+
+- CompTIA Network+
 - AWS Cloud Practioner
 ##  
 ## More About Me
