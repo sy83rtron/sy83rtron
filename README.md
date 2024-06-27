@@ -2,7 +2,8 @@
 ## About Me
 I am passionate about cybersecurity and am brand new to github!
 ##
-print("I love Hannah kinda")
+I love Hannah kinda
+##
 BSCSIA @WGU (Current)
 ## Skills
 - Network Security
