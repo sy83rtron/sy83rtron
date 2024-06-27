@@ -2,12 +2,8 @@
 ## About Me
 I am passionate about cybersecurity and am brand new to github!
 ##
-# Python code to ask about Hannah
-##
 print("I love Hannah kinda")
-
 BSCSIA @WGU (Current)
-
 ## Skills
 - Network Security
 - Web Application Security
