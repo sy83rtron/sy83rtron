@@ -4,8 +4,6 @@ I am passionate about cybersecurity and am brand new to github!
 ##
 # Python code to ask about Hannah
 ##
-# love_hannah.py
-
 print("I love Hannah kinda")
 
 BSCSIA @WGU (Current)
