@@ -3,13 +3,10 @@
 I am passionate about cybersecurity and am brand new to github!
 ##
 # Python code to ask about Hannah
+##
+# love_hannah.py
 
-# Ask the user for their input
-name = input("Who is Hannah? ")
-
-# Print a message including the input name
-print(f"Tell me more about {name}.")
-
+print("I love Hannah kinda")
 
 BSCSIA @WGU (Current)
 
